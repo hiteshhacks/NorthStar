@@ -1,35 +1,3 @@
- 
-
- ┌───────────────┐
- │   Frontend    │
- │ React UI      │
- └──────┬────────┘
-        ↓
- ┌───────────────┐
- │   Backend     │
- │ FastAPI       │
- └──────┬────────┘
-        ↓
- ┌───────────────┬───────────────┐
- │ Bias Engine   │   LLM Engine  │
- │ Metrics       │   llma3       │
- └──────┬────────┴───────┬───────┘
-        ↓                ↓
-     ┌─────────────────────────┐
-     │   Response Combiner     │
-     └──────────┬──────────────┘
-                ↓
-         ┌───────────────┐
-         │   Database    │
-         └───────────────┘
-
-
-
-
-
-
-
-
 # 🚀 NorthStar AI  
 ### AI-Powered Fairness Detection & Explainability System
 
