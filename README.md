@@ -75,3 +75,7 @@ NorthStar AI is an intelligent system designed to detect, analyze, and explain b
 ---
 
 ## 📂 Project Structure
+
+
+
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=I%20am%20a%20driven%20AIML%20Engineer%20passionate%20about%20building%20intelligent%20systems%20that%20bridge%20complex%20data%20with%20real-world%20impact.%20My%20focus%20lies%20in%20Generative%20AI%2C%20LLM%20systems%2C%20backend%20engineering%2C%20and%20scalable%20automation%20pipelines.%20%20I%20aim%20to%20craft%20solutions%20that%20blend%20sound%20engineering%20with%20modern%20AI%20capabilities.)
